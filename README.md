@@ -1,6 +1,10 @@
 # EmoChat
 This is an innovative chat app which enable effective communication with Emojis. It effectively maps face of the person to the right emoji, which is sent to the other person and is rendered in place of the actual face. This enables the users to have an experience of emotion accompanied chat without having to show the actual face.  This feature will make chatting with strangers easier and secure.
 
+## Screenshot
+
+![](https://github.com/EmoChat/EmoChat/blob/master/Outputs/screenshot.jpeg)
+
 ## Quick Start
 
 Please read and follow these instructions carefully to run the application:
@@ -32,10 +36,10 @@ Please read and follow these instructions carefully to run the application:
    	|
    	|
    	emotion
-   		   |
-              1 :
-              |
-              2 :
+               |
+               1 :
+               |
+               2 :
    ```
 
 2. Install and setup all the dependencies 

@@ -3,7 +3,7 @@ This is an innovative chat app which enable effective communication with Emojis.
 
 ## Screenshot
 
-![](https://github.com/EmoChat/EmoChat/blob/master/Outputs/screenshot.jpeg)
+![](https://github.com/EmoChat/EmoChat/blob/master/Outputs/screenshot.jpg)
 
 ## Quick Start
 
@@ -61,3 +61,7 @@ Please read and follow these instructions carefully to run the application:
 https://github.com/swamitagupta
 
 https://github.com/akri16
+
+https://github.com/agnivabasak
+
+https://github.com/r-ush
